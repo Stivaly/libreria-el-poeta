@@ -1,6 +1,6 @@
-# Libreria "El Poeta"
+# Sistema de Inventario para Librería "El Gran Poeta"
 Este proyecto consiste en el desarrollo de un sistema de inventario para la librería "El Gran Poeta", que permita gestionar productos y bodegas, así como realizar movimientos de productos entre ellas. El sistema estará dividido en dos roles principales: jefe de bodega y bodeguero, cada uno con sus propias funcionalidades.
-README del Proyecto: Sistema de Inventario para Librería "El Gran Poeta"
+
 ## 1. Introducción
 
 El presente proyecto tiene como objetivo el desarrollo de un sistema de inventario para la librería "El Gran Poeta", con el fin de optimizar la gestión de productos y bodegas, así como facilitar el movimiento de productos entre ellas. El sistema se diseñará de acuerdo a los roles de usuario definidos: jefe de bodega y bodeguero, cada uno con sus propias funcionalidades específicas.
