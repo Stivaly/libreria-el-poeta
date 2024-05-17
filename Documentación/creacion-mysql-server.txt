@@ -1,0 +1,16 @@
+Licencia: Azure for students
+Grupo de recursos: Prueba1
+Nombre del servidor: elpoeeta-db
+Región: East US
+Tipo de carga de trabajo: Para proyecto de desarrollo o aficion
+Zona de disponibilidad: 1
+Método de autenticación: MySQL y Microsoft Entra
+Administrador Entra ID: Representante Backend y BD
+Identidad Administrada asignada: Correspondiente a Representante Backend y BD
+Administración de budget con alerta: 80% del pronostico de budget consumido y 110% del budget real consumido
+Grupo de acciones: Budget-Risk, alerta de correo a Representante Backend y Frontend
+Nombre de usuario administrador: lepadmin
+Contraseña: Pista asmodee
+Puerto abierto para conexiones externas: 3306
+Almacén de claves creado
+Tipo de clave EC creado
