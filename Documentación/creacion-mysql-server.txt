@@ -14,3 +14,6 @@ Contraseña: Pista asmodee
 Puerto abierto para conexiones externas: 3306
 Almacén de claves creado
 Tipo de clave EC creado
+nombre de llave: proyecto-libreria
+Storage account name: elpoetastorage
+File share: elpoeta
