@@ -117,3 +117,6 @@ CREATE TABLE Movimiento (
     FOREIGN KEY (id_bodega_origen) REFERENCES bodega(id_bodega),
     FOREIGN KEY (id_bodega_destino) REFERENCES bodega(id_bodega)
 );
+
+ALTER TABLE libro
+ADD COLUMN libro_ISBN varchar(60);
