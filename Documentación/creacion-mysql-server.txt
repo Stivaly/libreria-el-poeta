@@ -12,8 +12,6 @@ Grupo de acciones: Budget-Risk, alerta de correo a Representante Backend y Front
 Nombre de usuario administrador: lepadmin
 Contraseña: Pista asmodee
 Puerto abierto para conexiones externas: 3306
-Almacén de claves creado
-Tipo de clave EC creado
-nombre de llave: proyecto-libreria
-Storage account name: elpoetastorage
-File share: elpoeta
+Se utiliza llave SSL predeterminada de azure para la conexión a través de workbench.
+Netowrking: Se agrega la dirección IP local a la conexión en la nube
+Tipo de encriptación: SHA256
