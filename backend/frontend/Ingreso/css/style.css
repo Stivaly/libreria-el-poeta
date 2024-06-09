@@ -1,0 +1,35 @@
+html,body{
+    padding:0px;
+    margin: 0px;
+    width: 100%;
+    height: 100vh;
+    color: black;
+}
+
+
+.imgUsuario{
+    width: 150px;
+    height: 150px;
+    border-radius: 75px;
+    position: relative;
+    margin: 0px 0px;
+}
+
+.menuVertical{
+    margin-top: 10px;
+}
+
+#crearProductos{
+    max-width: 100%;
+    text-align: center;
+    
+}
+
+.contenido{
+    background-color: blueviolet;
+    margin-top: 30px;
+}
+
+#exampleModal{
+    max-width: 100%;
+}
