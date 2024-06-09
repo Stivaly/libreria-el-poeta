@@ -67,7 +67,7 @@ CREATE TABLE ciudad (
 
 CREATE TABLE comuna (
     id_comuna INT PRIMARY KEY AUTO_INCREMENT,
-    nombre INT,
+    nombre VARCHAR(255),
     id_region INT,
     id_ciudad INT,
     FOREIGN KEY (id_region) REFERENCES region(id_region),
@@ -91,10 +91,11 @@ CREATE TABLE bodega (
 
 CREATE TABLE usuario (
     rut_usuario INT PRIMARY KEY,
-    codigo_verificador INT,
+    codigo_verificador VARCHAR(1),
     nombre_usuario VARCHAR(255),
     correo VARCHAR(255),
     contraseña VARCHAR(255),
+    direccion VARCHAR(255),
     id_region INT,
     id_ciudad INT,
     id_comuna INT,
