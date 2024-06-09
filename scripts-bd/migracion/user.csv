@@ -1,0 +1,11 @@
+﻿rut_usuario,codigo_verificador,nombre_usuario,correo,contraseña_encriptada,,región,ciudad,comuna
+12345678,K,Juan Pérez,juan.perez@example.com,$2a$12$D9heT.C/fJf34wRjLfsxa,direccion 123456,13,131,13123
+87654321,1,María González,maria.gonzalez@example.com,$2a$12$1QsGE8R/Os2jxO/xlTsrf,dieccion 789101,13,131,13120
+11223344,2,Pedro Ramírez,pedro.ramirez@example.com,$2a$12$T6uS/Z6jUf9s1ZlcqDgQo,direccion 111213,5,51,5109
+44332211,3,Ana Fernández,ana.fernandez@example.com,$2a$12$GfRmQ9a9f0ZDc9zHVL6Lg,direccion 141516,5,51,5801
+55667788,4,Luis Rojas,luis.rojas@example.com,$2a$12$3MZ.pQ9lfZlQ0xqRcQyzv,direccion 171819,8,81,8110
+88776655,5,Carmen Soto,carmen.soto@example.com,$2a$12$W9.T6uF3pYz0x8cQsDqIt,direccion 202122,8,81,8108
+99887766,6,Diego Fuentes,diego.fuentes@example.com,$2a$12$Zn8rS/JkXx5zF2DcKvLkm,direccion 232425,2,21,2201
+66554433,7,Laura Espinoza,laura.espinoza@example.com,$2a$12$K6yC6jI4qU4lZ9rVsQxPh,direccion 262728,2,21,2102
+22334455,8,Francisco Morales,francisco.morales@example.com,$2a$12$L9uK6jJ3f0G9vNc9cQyLn,direccion 293031,10,101,10109
+55443322,9,Daniela Vargas,daniela.vargas@example.com,$2a$12$P8sR4yZ6kQy8kNc9lTsQm,direccion 323334,10,103,10301
