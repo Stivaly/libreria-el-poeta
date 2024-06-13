@@ -1,0 +1,61 @@
+html,body{
+    padding:0px;
+    margin: 0px;
+    width: 100%;
+    height: 100vh;
+    
+}
+
+.imgUsuario{
+    width: 150px;
+    height: 150px;
+    border-radius: 75px;
+    position: relative;
+    margin: 0px 0px;
+}
+
+.menuVertical{
+    margin-top: 10px;
+}
+
+#crearProductos{
+    max-width: 100%;
+    text-align: center;
+    
+}
+
+#exampleModal{
+    max-width: 100%;
+}
+
+.modal{
+    background: rgba(177, 161, 161, 0.322); 
+      backdrop-filter: blur(10px);
+}
+
+.con-derecho{
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    padding: 10px;
+    width: 950px;
+    margin:auto;
+    max-width: 100%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 50px;
+}
+
+.encabezado{
+    background-color: #F1F2F7;
+}
+
+.ingreso{
+    background-color: #FFFFFF;
+}
+
+.arriba{
+    background-color: #FFFFFF;
+}
+
+.full-height{
+    min-height: 100vh;
+}
