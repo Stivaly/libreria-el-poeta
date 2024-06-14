@@ -74,6 +74,9 @@ Los entregables principales del proyecto serán:
 
 * Diseño de la arquitectura del sistema: Arquitectura Rest
 * Diseño de la base de datos: Modelo entidad relación
+* Creacion de la base de datos y su esquema
+* Creacion de proyecto backend e incialización de primera aplicación login
+* Actualización de documentación
   
 ## 6. Próximos Pasos
 
